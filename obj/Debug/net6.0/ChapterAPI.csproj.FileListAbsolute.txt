@@ -58,3 +58,4 @@ C:\Users\OI417415\Documents\UC17\ChapterTurmaOI\ChapterAPI\obj\Debug\net6.0\refi
 C:\Users\OI417415\Documents\UC17\ChapterTurmaOI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.pdb
 C:\Users\OI417415\Documents\UC17\ChapterTurmaOI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.genruntimeconfig.cache
 C:\Users\OI417415\Documents\UC17\ChapterTurmaOI\ChapterAPI\obj\Debug\net6.0\ref\ChapterAPI.dll
+C:\Users\OI417415\Documents\UC17\ChapterTurmaOI\ChapterAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

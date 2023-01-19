@@ -1,5 +1,6 @@
 using ChapterAPI.Models;
 using ChapterAPI.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ChapterAPI.Controllers
@@ -55,7 +56,8 @@ namespace ChapterAPI.Controllers
                 throw new Exception(e.Message);
             }
         }
-
+        
+        [Authorize(Roles ="1")]
         [HttpPost]
         public IActionResult Cadastrar(Livro l)
         {
